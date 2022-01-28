@@ -1,0 +1,21 @@
+.config-nav-block.blackbird-tab strong:before {
+    background: url(../images/logo.svg) no-repeat 0 -4px;
+    background-size: 22px 22px;
+    width: 16px;
+    height: 16px;
+    content: '';
+    display: inline-block;
+    margin-right: 12px;
+    vertical-align: bottom;
+}
+
+.admin__menu [data-ui-id^="menu-blackbird-visual"] span:before {
+    background: url(../images/logo-menu.svg) no-repeat 0 -2px;
+    background-size: 22px 22px;
+    width: 16px;
+    height: 19px;
+    content: '';
+    display: inline-block;
+    margin-right: 12px;
+    vertical-align: top;
+}

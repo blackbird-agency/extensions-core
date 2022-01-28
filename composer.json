@@ -1,0 +1,20 @@
+{
+    "name": "blackbird/extensions-core",
+    "description": "This Blackbird extension is the one to mange them all !",
+    "suggest": {
+
+    },
+    "type": "magento2-module",
+    "version": "100.0.0",
+    "license": [
+
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Blackbird\\ExtensionCore\\": ""
+        }
+    }
+}
