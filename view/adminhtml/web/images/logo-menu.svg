@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  -  Blackbird Extensions Core
+  -
+  -  NOTICE OF LICENSE
+  -  If you did not receive a copy of the license and are unable to
+  -  obtain it through the world-wide-web, please send an email
+  -  to contact@bird.eu so we can send you a copy immediately.
+  -
+  -  @category        Blackbird
+  -  @package         Blackbird_ExtensionsCore
+  -  @copyright       Copyright (c) Blackbird (https://black.bird.eu)
+  -  @author          Thibaud Ritzenthaler (hello@bird.eu)
+  -  @license         MIT
+  -  @support         https://github.com/blackbird-agency/extension-core/issues/new
+  -
+  -->
+
 <svg width="24px" height="24px" viewBox="0 0 188 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
     <title>Logo complet</title>

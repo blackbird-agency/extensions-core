@@ -1,14 +1,9 @@
 {
     "name": "blackbird/extensions-core",
-    "description": "This Blackbird extension is the one to mange them all !",
-    "suggest": {
-
-    },
+    "description": "One Blackbird extension to manage them all !",
     "type": "magento2-module",
-    "version": "100.0.0",
-    "license": [
-
-    ],
+    "version": "100.0.1",
+    "license": "MIT",
     "autoload": {
         "files": [
             "registration.php"
