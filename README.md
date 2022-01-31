@@ -1,6 +1,6 @@
 # Extensions Core
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/extensions-core.svg?style=flat-square)](https://https://packagist.org/packages/blackbird/extensions-core)
+[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/extensions-core.svg?style=flat-square)](https://packagist.org/packages/blackbird/extensions-core)
 [![License: MIT](https://img.shields.io/github/license/blackbird-agency/extension-core.svg?style=flat-square)](./LICENSE)
 
 One Blackbird extension to manage them all !

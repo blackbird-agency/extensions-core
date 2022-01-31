@@ -2,7 +2,7 @@
     "name": "blackbird/extensions-core",
     "description": "One Blackbird extension to manage them all !",
     "type": "magento2-module",
-    "version": "100.0.1",
+    "version": "100.0.2",
     "license": "MIT",
     "autoload": {
         "files": [
