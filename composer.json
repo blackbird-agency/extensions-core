@@ -2,14 +2,14 @@
     "name": "blackbird/extensions-core",
     "description": "One Blackbird extension to manage them all !",
     "type": "magento2-module",
-    "version": "100.0.2",
+    "version": "100.0.3",
     "license": "MIT",
     "autoload": {
         "files": [
             "registration.php"
         ],
         "psr-4": {
-            "Blackbird\\ExtensionCore\\": ""
+            "Blackbird\\ExtensionsCore\\": ""
         }
     }
 }

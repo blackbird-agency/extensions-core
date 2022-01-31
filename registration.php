@@ -18,6 +18,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Blackbird_ExtensionCore',
+    'Blackbird_ExtensionsCore',
     __DIR__
 );

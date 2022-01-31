@@ -1,3 +1,9 @@
+## Version 100.0.3
+*Released the 2022-01-31
+
+* Improvement 🔝 : Update label
+* Improvement 🔝 : Update name
+
 ## Version 100.0.2
 *Released the 2022-01-31
 
