@@ -1,3 +1,8 @@
+## Version 100.0.6
+*Released the 2022-02-23
+
+* Improvement 🔝 : Update composer.json
+ 
 ## Version 100.0.5
 *Released the 2022-02-23
 
