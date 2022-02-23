@@ -8,7 +8,7 @@
     "suggest": {
 
     },
-    "version": "100.0.4",
+    "version": "100.0.5",
     "license": "MIT",
     "autoload": {
         "files": [
@@ -17,5 +17,6 @@
         "psr-4": {
             "Blackbird\\ExtensionsCore\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
