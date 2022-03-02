@@ -5,12 +5,16 @@
     "require": {
 
     },
-    "suggest": {
-
-    },
-    "version": "100.0.7",
+    "version": "100.0.8",
     "license": [
         "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Blackbird Agency",
+            "email": "contact@bird.eu",
+            "homepage": "https://black.bird.eu"
+        }
     ],
     "autoload": {
         "files": [
