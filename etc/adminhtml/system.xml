@@ -21,6 +21,12 @@
     <tab id="blackbird_extensions" translate="label" class="blackbird-tab" sortOrder="400">
         <label>Blackbird Extensions</label>
     </tab>
+    <section id="blackbird_extensions" translate="label" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+        <class>separator-top</class>
+        <label>Blackbird Extensions</label>
+        <tab>blackbird_extensions</tab>
+        <resource>Blackbird_Backend::extensions</resource>
+    </section>
 </system>
 </config>
 

@@ -1,3 +1,10 @@
+## Version 100.0.9
+*Released the 2022-03-15*
+
+* **Added** : Adding icon to all blackbird extensions.
+* **Improvement** : Adding section for blackbird extensions core for further development.
+
+
 ## Version 100.0.8
 *Released the 2022-03-02*
 

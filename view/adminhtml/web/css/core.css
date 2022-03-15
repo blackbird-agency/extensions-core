@@ -26,7 +26,7 @@
     vertical-align: bottom;
 }
 
-.admin__menu [data-ui-id^="menu-blackbird-visual"] span:before {
+.admin__menu [data-ui-id^="menu-blackbird"]:not([data-ui-id^="menu-blackbird-contentmanager"]) span:before, .admin__menu .level-1[data-ui-id^="menu-blackbird-contentmanager"] strong span:before {
     background: url(../images/logo-menu.svg) no-repeat 0 -2px;
     background-size: 22px 22px;
     width: 16px;
