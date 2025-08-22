@@ -1,38 +1,26 @@
-/**
- *  Blackbird Extensions Core
- *
- *  NOTICE OF LICENSE
- *  If you did not receive a copy of the license and are unable to
- *  obtain it through the world-wide-web, please send an email
- *  to support@bird.eu so we can send you a copy immediately.
- *
- *  @category        Blackbird
- *  @package         Blackbird_ExtensionsCore
- *  @copyright       Copyright (c) Blackbird (https://black.bird.eu)
- *  @author          Thibaud Ritzenthaler (hello@bird.eu)
- *  @license         MIT
- *  @support         https://github.com/blackbird-agency/extension-core/issues/new
- *
- */
-
 .config-nav-block.blackbird-tab strong:before {
-    background: url(../images/logo.svg) no-repeat 0 -4px;
-    background-size: 22px 22px;
-    width: 16px;
-    height: 16px;
+    background: url(../images/logo.svg) no-repeat center;
+    background-size: cover;
+    width: 2rem;
+    height: 2rem;
     content: '';
     display: inline-block;
     margin-right: 12px;
     vertical-align: bottom;
+    mix-blend-mode: difference;
+    filter: invert(1);
 }
 
-.admin__menu [data-ui-id^="menu-blackbird"]:not([data-ui-id^="menu-blackbird-contentmanager"]) span:before, .admin__menu .level-1[data-ui-id^="menu-blackbird-contentmanager"] strong span:before {
-    background: url(../images/logo-menu.svg) no-repeat 0 -2px;
-    background-size: 22px 22px;
-    width: 16px;
-    height: 19px;
+.admin__menu [data-ui-id^="menu-blackbird"]:not([data-ui-id^="menu-blackbird-contentmanager"]) span:before,
+.admin__menu .level-1[data-ui-id^="menu-blackbird-contentmanager"] strong span:before {
+    background: url(../images/logo.svg) no-repeat center;
+    background-size: cover;
+    width: 1.6rem;
+    height: 1.6rem;
     content: '';
     display: inline-block;
     margin-right: 12px;
     vertical-align: top;
+    mix-blend-mode: difference;
+    filter: invert(1);
 }

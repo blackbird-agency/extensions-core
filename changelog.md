@@ -1,3 +1,9 @@
+## Version 100.0.10
+*Released the 2025-08-22*
+
+* **Changes** : Icons are now changing color depending on background color.
+* **Changes** : Place the tab in stores configuration at the end to improve readability.
+
 ## Version 100.0.9
 *Released the 2022-03-15*
 
